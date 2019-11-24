@@ -1,5 +1,5 @@
 <?php
- 
+ //
  require "Calculadora.php";
   $Calcular = new calculadora();
   $num1 = $_POST["num1"];
